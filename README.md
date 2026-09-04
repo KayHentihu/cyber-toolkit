@@ -12,7 +12,7 @@ The project will be developed gradually as my skills and knowledge grow.
 
 > Features will be added progressively throughout the development of this project.
 
-* [ ] Password Strength Checker
+* [x] Password Strength Checker
 * [ ] File Hash Checker
 * [ ] Log Analyzer
 * [ ] Localhost Port Checker
