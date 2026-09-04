@@ -12,30 +12,30 @@ The project will be developed gradually as my skills and knowledge grow.
 
 > Features will be added progressively throughout the development of this project.
 
-* [x] Password Strength Checker
-* [ ] File Hash Checker
-* [ ] Log Analyzer
-* [ ] Localhost Port Checker
-* [ ] Network Calculator
-* [ ] System Information
+- [x] Password Strength Checker
+- [ ] File Hash Checker
+- [ ] Log Analyzer
+- [ ] Localhost Port Checker
+- [ ] Network Calculator
+- [ ] System Information
 
 ## 🛠️ Technologies
 
-* Python
-* Linux / WSL
-* Git & GitHub
+- Python
+- Linux / WSL
+- Git & GitHub
 
 ## 🎯 Learning Goals
 
 This project is built to practice:
 
-* Python programming
-* Problem solving
-* Algorithms & data structures
-* Linux fundamentals
-* Cybersecurity fundamentals
-* Git & GitHub workflow
-* Writing clean and maintainable code
+- Python programming
+- Problem solving
+- Algorithms & data structures
+- Linux fundamentals
+- Cybersecurity fundamentals
+- Git & GitHub workflow
+- Writing clean and maintainable code
 
 ## 📌 Project Status
 
