@@ -14,7 +14,7 @@ The project will be developed gradually as my skills and knowledge grow.
 
 - [x] Password Strength Checker
 - [x] File Hash Checker
-- [ ] Log Analyzer
+- [x] Log Analyzer
 - [ ] Localhost Port Checker
 - [ ] Network Calculator
 - [ ] System Information
